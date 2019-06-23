@@ -1,0 +1,25 @@
+.header-test{
+    float: right;
+    margin-right: 30px;
+}
+body{
+    padding:0;
+    margin: 0%;
+}
+.content{
+    border-width: 1px;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+   
+}
+img {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+p{
+    float: right;
+    text-align: left;
+}
